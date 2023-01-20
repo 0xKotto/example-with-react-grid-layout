@@ -1,7 +1,7 @@
 {
   "name": "example-with-react-grid-layout",
   "version": "0.0.0",
-  "homepage": "",
+  "homepage": "https://0xleelike.github.io/example-with-react-grid-layout",
   "private": true,
   "dependencies": {
     "@chakra-ui/icons": "^1.0.15",
